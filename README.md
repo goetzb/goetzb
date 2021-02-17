@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋
+
+When not writing text or code for [Strand Writing & Design](https://strand-uk.com/), I'm  building [UnscrewMe](https://www.unscrewme.co.uk/) 🍾 and tasting wine 🍷 (WSET Level 3).
+
+Other interests include coffee ☕️, food 🍽, words 📔, languages 🇬🇧🇸🇪🇩🇪, Python 🐍, Django 🦄 , Vue.js 🖥 and Startups 🚀.
+
+For the past ten years, I've been living in London, UK.
+
+You can also find me on [Twitter](https://twitter.com/goetzb) or [GitLab](https://gitlab.com/goetz).
 
 <!--
 **goetzb/goetzb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
